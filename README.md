@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a data science project with a social focus..<br>👯 I'm looking to collaborate on projects related to data science, machine learning, and artificial intelligence.<br>🌱 I'm currently learning advanced deep learning techniques.<br>⚡ Fun fact: I love video games and have participated in the development of one!<br>
+🔭 I'm currently working on a data science project with a social focus.<br>👯 I'm looking to collaborate on projects related to data science, machine learning, and artificial intelligence.<br>🌱 I'm currently learning advanced deep learning techniques.<br>⚡ Fun fact: I love video games and have participated in the development of one!<br>
 
 
 ## 🌐 Socials:
