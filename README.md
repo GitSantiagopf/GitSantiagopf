@@ -1,4 +1,7 @@
-# 💫 About Me:
+<div align="center">
+  <h1>Hi 👋 I'm Santiago</h1>
+</div>
+
 🔭 I'm currently working on a data science project in the STEM Classroom at the National University of Colombia.<br>👯 I'm looking to collaborate on projects related to data science, machine learning, and artificial intelligence.<br>🌱 I'm currently learning advanced deep learning techniques.<br>⚡ Fun fact: I love video games and have participated in the development of one!<br>
 
 
