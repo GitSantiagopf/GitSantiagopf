@@ -50,10 +50,5 @@
 <div align="center">
   <h3>📊 My GitHub Stats:</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitsantiagopf&theme=tokyonight&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitsantiagopf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gitsantiagopf&icon=2&color=12"></a>
 </div>
 
